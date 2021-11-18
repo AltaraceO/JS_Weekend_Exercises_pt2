@@ -31,6 +31,7 @@ const mappedRandom = myRandomArray.map(function (item) {
 console.log(mappedRandom);
 
 // Filter --->
+
 numbers = [1, 2, 3, 4];
 const letterE = myRandomArray.filter(
   (word) => word === "the" || word === "The"
